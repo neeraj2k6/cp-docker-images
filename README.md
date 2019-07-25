@@ -1,5 +1,5 @@
 Docker Images for Confluent Plaform
-===
+=====
 
 Docker images for deploying and running the Confluent Platform.  The images are currently available on [DockerHub](https://hub.docker.com/u/confluentinc/).  They are currently only available for Confluent Platform 3.0.1 and after.
 
